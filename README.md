@@ -5,7 +5,7 @@ This project analyzes fake and real job postings to identify key patterns that h
 
 ## 📊 Power BI Dashboard
 
-![Fake vs Real Job Postings Dashboard]()
+![Fake vs Real Job Postings Dashboard](https://github.com/harshadshinde783/Fake-vs-Real-Job-Postings/blob/main/screenshots/dashboard.png)
 
 
 ## 🎯 Objective
